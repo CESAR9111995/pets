@@ -1,0 +1,230 @@
+@media only screen and (max-width:1800px){
+   
+    .moverPatas{
+      transform: translateY(-15px);
+    } .taparOjoIzq{
+      transform: translateY(-100px) translateX(80px) rotate(-70deg);
+    } .taparOjoDer{
+      transform: translateY(-100px) translateX(-80px) rotate(70deg);
+    }
+   
+}
+@media only screen and (max-width:1700px){
+   
+    .moverPatas{
+      transform: translateY(-15px);
+    } .taparOjoIzq{
+      transform: translateY(-100px) translateX(70px) rotate(-70deg);
+    } .taparOjoDer{
+      transform: translateY(-100px) translateX(-70px) rotate(70deg);
+    }
+   
+}
+
+@media only screen and (max-width:1600px){
+   
+    .moverPatas{
+      transform: translateY(-15px);
+    } .taparOjoIzq{
+      transform: translateY(-100px) translateX(65px) rotate(-70deg);
+    } .taparOjoDer{
+      transform: translateY(-100px) translateX(-65px) rotate(70deg);
+    }
+   
+}
+
+@media only screen and (max-width:1500px){
+   
+    .moverPatas{
+      transform: translateY(-15px);
+    } .taparOjoIzq{
+      transform: translateY(-100px) translateX(60px) rotate(-70deg);
+    } .taparOjoDer{
+      transform: translateY(-100px) translateX(-60px) rotate(70deg);
+    }
+   
+}
+
+@media only screen and (max-width:1400px){
+   
+    .moverPatas{
+      transform: translateY(-15px);
+    } .taparOjoIzq{
+      transform: translateY(-100px) translateX(50px) rotate(-70deg);
+    } .taparOjoDer{
+      transform: translateY(-100px) translateX(-50px) rotate(70deg);
+    }
+   
+}
+
+
+@media only screen and (max-width:1250px){
+   
+    .moverPatas{
+      transform: translateY(-15px);
+    } .taparOjoIzq{
+      transform: translateY(-100px) translateX(55px) rotate(-70deg);
+    } .taparOjoDer{
+      transform: translateY(-100px) translateX(-55px) rotate(70deg);
+    }
+   
+}
+
+@media only screen and (max-width:1060px){
+   
+    .moverPatas{
+      transform: translateY(-15px);
+    } .taparOjoIzq{
+      transform: translateY(-100px) translateX(40px) rotate(-70deg);
+    } .taparOjoDer{
+      transform: translateY(-100px) translateX(-40px) rotate(70deg);
+    }
+   
+}
+
+
+@media only screen and (max-width:1002px){
+   
+    .moverPatas{
+      transform: translateY(-15px);
+    } .taparOjoIzq{
+      transform: translateY(-100px) translateX(55px) rotate(-70deg);
+    } .taparOjoDer{
+      transform: translateY(-100px) translateX(-55px) rotate(70deg);
+    }
+   
+}
+
+
+@media only screen and (max-width:902px){
+   
+    .moverPatas{
+      transform: translateY(-15px);
+    } .taparOjoIzq{
+      transform: translateY(-100px) translateX(70px) rotate(-70deg);
+    } .taparOjoDer{
+      transform: translateY(-100px) translateX(-70px) rotate(70deg);
+    }
+   
+}
+
+
+@media only screen and (max-width:750px){
+   
+    .moverPatas{
+      transform: translateY(-15px);
+    } .taparOjoIzq{
+      transform: translateY(-100px) translateX(60px) rotate(-70deg);
+    } .taparOjoDer{
+      transform: translateY(-100px) translateX(-60px) rotate(70deg);
+    }
+   
+}
+
+
+
+@media only screen and (max-width:550px){
+   
+    .moverPatas{
+      transform: translateY(-15px);
+    } .taparOjoIzq{
+      transform: translateY(-100px) translateX(50px) rotate(-70deg);
+    } .taparOjoDer{
+      transform: translateY(-100px) translateX(-50px) rotate(70deg);
+    }
+   
+}
+
+
+
+@media only screen and (max-width:501px){
+   
+  .moverPatas{
+    transform: translateY(-15px);
+  } .taparOjoIzq{
+    transform: translateY(-100px) translateX(70px) rotate(-70deg);
+  } .taparOjoDer{
+    transform: translateY(-100px) translateX(-70px) rotate(70deg);
+  }
+ 
+}
+
+
+@media only screen and (max-width:450px){
+   
+  .moverPatas{
+    transform: translateY(-15px);
+  } .taparOjoIzq{
+    transform: translateY(-100px) translateX(60px) rotate(-70deg);
+  } .taparOjoDer{
+    transform: translateY(-100px) translateX(-60px) rotate(70deg);
+  }
+ 
+}
+
+
+@media only screen and (max-width:360px){
+   
+  .moverPatas{
+    transform: translateY(-15px);
+  } .taparOjoIzq{
+    transform: translateY(-100px) translateX(45px) rotate(-70deg);
+  } .taparOjoDer{
+    transform: translateY(-100px) translateX(-45px) rotate(70deg);
+  }
+ 
+}
+
+
+@media only screen and (max-width:320px){
+   
+  .moverPatas{
+    transform: translateY(-15px);
+  } .taparOjoIzq{
+    transform: translateY(-100px) translateX(40px) rotate(-70deg);
+  } .taparOjoDer{
+    transform: translateY(-100px) translateX(-40px) rotate(70deg);
+  }
+ 
+}
+
+
+@media only screen and (max-width:260px){
+   
+  .moverPatas{
+    transform: translateY(-15px);
+  } .taparOjoIzq{
+    transform: translateY(-100px) translateX(35px) rotate(-70deg);
+  } .taparOjoDer{
+    transform: translateY(-100px) translateX(-35px) rotate(70deg);
+  }
+ 
+}
+
+
+
+@media only screen and (max-width:230px){
+   
+  .moverPatas{
+    transform: translateY(-15px);
+  } .taparOjoIzq{
+    transform: translateY(-100px) translateX(30px) rotate(-70deg);
+  } .taparOjoDer{
+    transform: translateY(-100px) translateX(-30px) rotate(70deg);
+  }
+ 
+}
+
+
+
+@media only screen and (max-device-width:220px){
+   
+  .moverPatas{
+    transform: translateY(-15px);
+  } .taparOjoIzq{
+    transform: translateY(-100px) translateX(25px) rotate(-70deg);
+  } .taparOjoDer{
+    transform: translateY(-100px) translateX(-25px) rotate(70deg);
+  }
+ 
+}

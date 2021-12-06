@@ -1,0 +1,317 @@
+@media only screen and (max-width:1800px){
+
+    .cont-formularios .form-regdesactivado{
+        opacity: 0;
+        width: 30%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 10px;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      }
+    
+      
+      .cont-formularios .form-reg{
+        width: 30%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 10px;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      z-index: 1;
+      } 
+      
+}
+@media only screen and (max-width:1300px){
+
+    .cont-formularios .form-regdesactivado{
+        opacity: 0;
+        width: 40%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 10px;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      }
+    
+      
+      .cont-formularios .form-reg{
+        width: 40%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 10px;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      z-index: 1;
+      } 
+      
+}
+
+@media only screen and (max-width:910px){
+
+    .cont-formularios .form-regdesactivado{
+        opacity: 0;
+        width: 45%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 0%;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      }
+    
+      
+      .cont-formularios .form-reg{
+        width: 45%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 0%;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      z-index: 1;
+      } 
+      
+}
+
+
+@media only screen and (max-width:901px){
+
+    .cont-formularios .form-regdesactivado{
+        opacity: 0;
+        width: 50%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 25%;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      }
+    
+      
+      .cont-formularios .form-reg{
+        width: 50%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 25%;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      z-index: 1;
+      } 
+      
+}
+
+
+@media only screen and (max-width:654px){
+
+    .cont-formularios .form-regdesactivado{
+        opacity: 0;
+        width: 60%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 20%;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      }
+    
+      
+      .cont-formularios .form-reg{
+        width: 60%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 20%;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      z-index: 1;
+      } 
+      
+}
+
+
+@media only screen and (max-width:504px){
+
+    .cont-formularios .form-regdesactivado{
+        opacity: 0;
+        width: 80%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 10%;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      }
+    
+      
+      .cont-formularios .form-reg{
+        width: 80%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 10%;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      z-index: 1;
+      } 
+      
+}
+
+
+
+@media only screen and (max-width:401px){
+
+    .cont-formularios .form-regdesactivado{
+        opacity: 0;
+        width: 90%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 4%;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      }
+    
+      
+      .cont-formularios .form-reg{
+        width: 90%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 4%;
+        top: 30px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      z-index: 1;
+      } 
+      
+}
+
+
+
+@media only screen and (max-width:315px){
+
+    .cont-formularios .form-regdesactivado{
+        opacity: 0;
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 0%;
+        top: 50px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      }
+    
+      
+      .cont-formularios .form-reg{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding-top: 20px;
+        border-radius: 15px;
+        left: 0%;
+        top: 50px;
+        background-color: #FFF;
+       -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.75);
+      z-index: 1;
+      } 
+      
+}

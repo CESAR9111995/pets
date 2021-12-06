@@ -1,0 +1,347 @@
+.cara-sesion{
+    width: 80%;
+    height: 150px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    transition: all 1s;
+} .cara-sesion-rotate{
+ 
+  transform: rotate(-30deg);
+} 
+
+.lengua{
+ transition: all 0.5s;
+
+} .lengua-escala{
+  transform: translateX(10px) translateY(280px) scaleY(0.6);
+  position: absolute;
+}
+
+.pataizq{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 20%;
+  top: 37%;
+  transition: all 1s;
+}
+
+.patader{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  right:20%;
+  top: 37%;
+  transition: all 1s;
+}
+.pataizq-escala{
+transform: scaleY(0.8);
+} 
+
+.patader-escala{
+  transform: scaleY(0.8);
+}
+
+.moverPatas{
+  transform: translateY(-15px);
+} .taparOjoIzq{
+  transform: translateY(-100px) translateX(100%) rotate(-70deg);
+} .taparOjoDer{
+  transform: translateY(-100px) translateX(-50px) rotate(70deg);
+}
+.ojos{
+  transition: all 1s;
+}
+.moverOjos{
+  transform: translateY(80px);
+  transition: all 1s;
+} 
+.parpados{
+  display: none;
+  transition: all 1s;
+} .parpados-activos{
+  display: block;
+  transition: all 1s;
+}
+.moverParpados{
+  transform: translateY(80px);
+  transition: all 1s;
+}
+.cejas{
+  transition: all 1s;
+}
+.moverCejas{
+  transform: translateY(100px);
+  transition: all 1s;
+}
+
+/*****************************************/
+.b8182e0d-2129-4c37-bdcc-ce5f6bca6cc8 {
+    fill: #1f151d;
+  }
+
+  .b6ad237e-e5ac-417e-98f1-33b7ebe7f7f9 {
+    fill: #6a0000;
+  }
+
+  .b49fce78-1ce4-4225-bcbf-0d03f4908013 {
+    fill: none;
+    stroke: #686668;
+    stroke-width: 3px;
+  }
+
+  .b49fce78-1ce4-4225-bcbf-0d03f4908013, .e50abddc-71a6-43b4-b986-65c9873cf33f, .e59695f9-40fd-435e-ad2f-836f4385b32a {
+    stroke-miterlimit: 10;
+  }
+
+  .b1ad0b5d-c564-404a-a8ea-3910be9e24bf {
+    fill: #151718;
+  }
+
+  .a681f12d-a719-4505-a58e-31c66f8ab8f1 {
+    fill: #333638;
+  }
+
+  .e50abddc-71a6-43b4-b986-65c9873cf33f {
+    fill: #ff2924;
+    stroke: #930d0d;
+    stroke-width: 2px;
+  }
+
+  .ba2971bc-ff70-4bb2-8e9a-20354d6fcde7 {
+    fill: #930d0d;
+  }
+
+  .bd8c7899-3799-47b5-9809-8f5981d007ba {
+    fill: #0091d8;
+  }
+
+  .bea1b583-efe5-4c9a-b959-bb4ec1f897b7 {
+    fill: #ebeff6;
+    opacity: 0.86;
+    isolation: isolate;
+  }
+
+  .e59695f9-40fd-435e-ad2f-836f4385b32a {
+    fill: #eb7597;
+    stroke: #070306;
+  }
+
+
+  /******* PATAS *****/
+
+  .b680a2ec-da16-4cca-abce-392ecd8689e6 {
+    fill: #8c898b;
+  }
+
+  .a0a642f6-aecf-479b-ad73-237dfa95aedd {
+    fill: #1f151d;
+  }
+
+  .a0d9ad12-f05f-4e26-820c-f210eaf60d02 {
+    fill: #8c898b;
+  }
+
+  .f796ec9f-19eb-4f7d-87db-f75a2f925c7e {
+    fill: #1f151d;
+  }
+
+ 
+
+
+
+  /******************ILUSTRACION MUJER**********************/
+
+  .ilustraciónMujer{
+    width: 30%;
+    height: 450px;
+    position:absolute;
+    left: 30%;
+    top: 20%;
+    z-index: 10;
+  }
+
+  /**************PERRO REGISTRO**************/
+   .perroCafe{
+    width: 80%;
+    height: 150px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    transition: all 1s;
+   } .pataizqcafe{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left:20%;
+    top: 32%;
+   } .patadercafe{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right:20%;
+    top: 32%;
+   }
+  .f8c8a754-024c-48e6-a307-f0b5f94950ec {
+    fill: #850000;
+  }
+
+  .aa9fadff-6c42-4c8a-8ffd-e5dd4541c2a3, .b9fb9ab9-3e32-4ffe-987d-751f1bd94eae {
+    fill: #d37e0d;
+  }
+
+  .b69d443c-629b-4cb0-8823-a0fc89ce7025 {
+    fill: #f54e4e;
+    stroke: #430000;
+  }
+
+  .b69d443c-629b-4cb0-8823-a0fc89ce7025, .b9fb9ab9-3e32-4ffe-987d-751f1bd94eae {
+    stroke-miterlimit: 10;
+  }
+
+  .abf14846-1117-48de-a6fe-1d3185bb4afe {
+    fill: #430000;
+  }
+
+  .a4daab3c-87e1-45f7-bb4d-8e4d911065f0 {
+    fill: #b24f0b;
+  }
+
+  .b0e53069-f710-4f29-a46b-d553c1204ca3 {
+    fill: #581602;
+  }
+
+  .f98f8ea2-634b-4607-922a-ce71a601f344 {
+    fill: #fdfdfd;
+  }
+
+  .ae09e233-250f-4592-bb21-c255adf172b5 {
+    fill: #005896;
+  }
+
+  .b9fb9ab9-3e32-4ffe-987d-751f1bd94eae {
+    stroke: #703309;
+  }
+
+  /***PATAS***/
+
+  .fe31ca41-5041-4f5d-a4d4-52e2f7bc1af5 {
+    fill: #b24f0b;
+    stroke: #050101;
+    stroke-miterlimit: 10;
+  }
+
+  .a413a9ec-adcf-49e7-81db-336a767020f3 {
+    fill: #b24f0b;
+    stroke: #050101;
+    stroke-miterlimit: 10;
+  }
+
+
+  .ba4f95bf-96d6-4bf1-8e65-ecdbda4d67a8 {
+    fill: #850000;
+  }
+
+  .aab66632-0ea5-4c7f-975d-146367b000ec, .b251e84a-fd56-4eee-8666-85cfbbf4b95c {
+    fill: #d37e0d;
+  }
+
+  .babaf687-f62f-4fbb-b171-e247f0cf6351 {
+    fill: #f54e4e;
+    stroke: #430000;
+  }
+
+  .aab66632-0ea5-4c7f-975d-146367b000ec, .babaf687-f62f-4fbb-b171-e247f0cf6351 {
+    stroke-miterlimit: 10;
+  }
+
+  .aa476121-75ae-4141-a277-9f2627038cee {
+    fill: #430000;
+  }
+
+  .bb5cdea6-66d1-4106-8097-92151a0c54fd {
+    fill: #b24f0b;
+  }
+
+  .b84011ea-5007-4549-abb7-98d7daebd3bd {
+    fill: #581602;
+  }
+
+  .af531392-bc62-4b5e-b25d-3b1c1fb04715 {
+    fill: #fdfdfd;
+  }
+
+  .ba095b0a-367e-4622-a1b3-524885ec8fb5 {
+    fill: #005896;
+  }
+
+  .aab66632-0ea5-4c7f-975d-146367b000ec {
+    stroke: #703309;
+  }
+
+
+
+/**************CLASES JAVASCRIPT REGISTRO************************************/
+
+.cara-reg-rotate{
+   transition: all 1s;
+  transform: rotate(-30deg);
+} 
+
+.lengua-Reg{
+ transition: all 1s;
+
+} .lengua-escalaReg{
+  transform: translateX(10px) translateY(80px) scaleY(0.5);
+  position: absolute;
+}
+
+.pataizq-Reg{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 20%;
+  top: 33%;
+  transition: all 1s;
+}
+
+.patader-Reg{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  right:20%;
+  top: 33%;
+  transition: all 1s;
+}
+.pataizq-escalaReg{
+transform: scaleY(0.9);
+} 
+
+.patader-escalaReg{
+  transform: scaleY(0.9);
+}
+
+.movPatasReg{
+  transform: translateY(-15px);
+} .tapOjoIzqReg{
+  transform: translateY(-130px) translateX(50px) rotate(-70deg);
+} .tapOjoDerReg{
+  transform: translateY(-130px) translateX(-50px) rotate(70deg);
+}
+.ojosReg{
+  transition: all 1s;
+}
+.movOjosReg{
+  transform: translateY(20px);
+  transition: all 1s;
+} 
+.parpados-Reg{
+  display: none;
+  transition: all 1s;
+} .parpados-activos-Reg{
+  display: block;
+  transition: all 1s;
+}
+.movParpadosReg{
+  transform: translateY(20px);
+  transition: all 1s;
+}
